@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#FFFFFF"
+    android:gravity="center"
+    android:padding="16dp"
+    tools:context=".WisataAlamActivity">
+
+    <!-- Tombol Kembali ke Home -->
+
+    <!-- Judul Aplikasi -->
+
+    <!-- Gambar dan Tombol Kampung Kecil -->
+
+    <!-- Gambar dan Tombol Ucok Durian -->
+
+
+    <ImageView
+        android:id="@+id/imgHome"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_gravity="start"
+        android:clickable="true"
+        android:contentDescription="Tombol Home"
+        android:focusable="true"
+        android:src="@drawable/ic_home"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="36dp" />
+
+    <ImageView
+        android:id="@+id/imgClose"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_gravity="start"
+        android:clickable="true"
+        android:contentDescription="Tombol Close"
+        android:focusable="true"
+        android:src="@drawable/ic_close"
+        tools:layout_editor_absoluteX="319dp"
+        tools:layout_editor_absoluteY="38dp" />
+
+    <TextView
+        android:id="@+id/tvTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/satisfy"
+        android:gravity="center"
+        android:text="Wisataku"
+        android:textColor="#8B1A1A"
+        android:textSize="30sp"
+        tools:layout_editor_absoluteX="143dp"
+        tools:layout_editor_absoluteY="37dp" />
+
+    <LinearLayout
+        android:layout_width="311dp"
+        android:layout_height="191dp"
+        android:background="#3A7945"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:padding="1dp"
+        tools:layout_editor_absoluteX="32dp"
+        tools:layout_editor_absoluteY="456dp">
+
+        <ImageView
+            android:id="@+id/imgKampungKecil"
+            android:layout_width="250dp"
+            android:layout_height="150dp"
+            android:contentDescription="Gambar Kampung Kecil"
+            android:src="@drawable/kampung_kecil" />
+
+        <TextView
+            android:id="@+id/tvKampungKecil"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:clickable="true"
+            android:focusable="true"
+            android:fontFamily="sans-serif-medium"
+            android:text="Kampung Kecil"
+            android:textColor="#000000"
+            android:textSize="16sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="310dp"
+        android:layout_height="210dp"
+        android:background="#3A7945"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:padding="1dp"
+        tools:layout_editor_absoluteX="32dp"
+        tools:layout_editor_absoluteY="209dp">
+
+        <ImageView
+            android:id="@+id/imgUcokDurian"
+            android:layout_width="250dp"
+            android:layout_height="150dp"
+            android:contentDescription="Gambar Ucok Durian"
+            android:src="@drawable/ucok_durian" />
+
+        <TextView
+            android:id="@+id/tvUcokDurian"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:clickable="true"
+            android:focusable="true"
+            android:fontFamily="sans-serif-medium"
+            android:text="Ucok Durian"
+            android:textColor="#000000"
+            android:textSize="16sp" />
+    </LinearLayout>
+
+</LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
