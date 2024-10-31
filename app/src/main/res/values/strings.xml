@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">wisataku2</string>
+    <string name="app_logo">Wisataku</string>
+
+    <string-array name="wisata_names">
+        <item>Danau Toba</item>
+        <item>Pantai Pasir Putih</item>
+        <item>Pulau Mursala</item>
+        <item>Air Terjun Ponot</item>
+        <item>Cagar Alam Sibolangit</item>
+        <item>Danau Linting</item>
+        <item>Gunung Sibayak</item>
+        <item>Pulau Samosir</item>
+        <item>Salju Panas Dolok Tinggi Raja</item>
+        <item>Taman Nasional Gunung Leuser</item>
+    </string-array>
+
+    <string-array name="wisata_descriptions">
+        <item>Danau Toba adalah danau vulkanik terbesar di dunia dan ikon wisata Sumatera Utara. Dengan pemandangan pegunungan yang memukau dan Pulau Samosir di tengahnya, Danau Toba menjadi destinasi ideal untuk bersantai, menikmati udara segar, dan mengeksplorasi budaya Batak.</item>
+        <item>Pantai Pasir Putih memiliki pasir halus yang lembut dan air laut yang jernih, cocok untuk berenang dan menikmati keindahan matahari terbenam. Pantai ini merupakan tempat ideal untuk berjemur, bermain air, atau sekadar berjalan-jalan sambil menikmati pemandangan laut.</item>
+        <item>Pulau Mursala terkenal dengan air terjun yang langsung mengalir ke laut, fenomena alam langka yang memukau. Pulau ini menawarkan pemandangan alam yang indah dan suasana tenang, sempurna untuk kegiatan snorkeling, diving, atau sekadar menikmati keindahan alam Sumatera Utara.</item>
+        <item>Air Terjun Ponot adalah salah satu air terjun tertinggi di Indonesia yang berada di alam pegunungan yang asri. Dengan air yang jernih dan suara gemuruh air terjun, tempat ini ideal untuk pecinta alam dan petualang yang mencari ketenangan jauh dari keramaian.</item>
+        <item>Cagar Alam Sibolangit terletak sekitar 40 km dari Medan dan menawarkan keindahan alam yang mempesona. Kawasan ini memiliki beragam flora dan fauna khas hutan tropis. Cagar alam ini cocok untuk hiking, berkemah, dan menikmati suasana sejuk alam pegunungan.</item>
+        <item>Danau Linting adalah danau vulkanik dengan air berwarna hijau toska yang hangat, terletak di Kabupaten Deli Serdang. Keunikan danau ini terletak pada suhu airnya yang lebih hangat dari danau-danau lainnya. Suasana di sekitar danau yang tenang menjadikannya destinasi ideal untuk relaksasi dan menikmati keindahan alam.</item>
+        <item>Gunung Sibayak adalah gunung berapi aktif yang terletak di dekat Kota Berastagi. Gunung ini populer di kalangan pendaki, terutama bagi yang ingin menikmati pemandangan matahari terbit dari puncaknya. Pendakian relatif ramah untuk pemula, dengan jalur yang menawarkan keindahan alam pegunungan dan suara uap yang keluar dari kawahnya.</item>
+        <item>Terletak di tengah Danau Toba, Pulau Samosir menawarkan pesona budaya dan alam yang unik. Selain pemandangan Danau Toba yang megah, pulau ini juga dikenal sebagai pusat kebudayaan Batak. Wisatawan dapat mengunjungi desa-desa tradisional, melihat rumah adat Batak, hingga menikmati pertunjukan tari tradisional.</item>
+        <item>Destinasi ini sering disebut "Salju Panas" karena keunikan warna putih di permukaan tanah yang menyerupai salju, namun dengan suhu yang panas. Lokasinya di Kabupaten Simalungun ini merupakan fenomena alam yang jarang ditemukan, di mana terdapat sumber mata air panas yang mengalir di tengah bebatuan kapur berwarna putih.</item>
+        <item> Dengan ekosistem yang sangat kaya, Taman Nasional Gunung Leuser menjadi tujuan utama bagi pecinta alam dan peneliti untuk mengeksplorasi keanekaragaman hayati dan keindahan hutan tropis. Pengunjung dapat melakukan kegiatan trekking, arung jeram, dan safari hutan untuk merasakan pengalaman yang mendalam di jantung alam liar Sumatera.</item>
+
+    </string-array>
+
+    <string-array name="wisata_websites">
+        <item>https://www.indonesia.travel/id/id/destinasi/sumatra/danau-toba.html</item>
+        <item>https://pariwisata.situbondokab.go.id/wisata/pantai-pasir-putih</item>
+        <item>https://www.northsumatrainvest.id/id/tourism/mursala-island</item>
+        <item>https://www.traveloka.com/id-id/explore/destination/air-terjun-ponot-acc/362615</item>
+        <item>https://indonesiatraveler.id/menyusuri-keindahan-cagar-alam-sibolangit/</item>
+        <item>https://www.traveloka.com/id-id/explore/destination/menengok-keindahan-danau-linting-yang-konon-penuh-sisi-mistis-acc/182421</item>
+        <item>https://weblama.karokab.go.id/index.php/potensi-daerah/pariwisata/tujuan-wisata/456-gunung-sibayak</item>
+        <item>https://kemenparekraf.go.id/ragam-pariwisata/fakta-menarik-tentang-pulau-samosir-punya-ritual-yang-unik</item>
+        <item>https://pariwisataindonesia.id/destinasi/kawah-putih-dolok-tinggi-raja/</item>
+        <item>https://medan.kompas.com/read/2022/02/12/114201778/taman-nasional-gunung-leuser-sejarah-flora-dan-fauna-hingga-tempat-wisata-di?page=all</item>
+    </string-array>
+
+</resources>
