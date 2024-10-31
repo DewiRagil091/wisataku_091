@@ -1,0 +1,1 @@
+Aplikasi wisataku merupakan aplikasi yang berisi list dan deskripsi mengenai wisata yang ada, sekaligus terdapat link lengkap yang jika di klik akan menuju sebuah situs yang yang menjelaskan lebih rinci mengenai wisataku tersebut.
